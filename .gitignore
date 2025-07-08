@@ -1,0 +1,12 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore CSV files and model files
+*.csv
+*.pkl
+
+# Ignore notebook checkpoints
+*.ipynb_checkpoints/
+
+# Ignore __pycache__ folders
+__pycache__/
