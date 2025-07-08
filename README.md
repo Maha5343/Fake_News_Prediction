@@ -1,6 +1,6 @@
 # Fake_News_Prediction
 A simple and interactive web application built with Flask, HTML/CSS, and Machine Learning to classify news articles as Fake or Real using Natural Language Processing (NLP) techniques.
-# 📰 Fake News Detection Web App
+# 📰 Fake News Prediction Web App
 
 A machine learning-powered web application that allows users to classify whether a news article is **Fake** or **Real**. Built using Python, Flask, HTML/CSS, and scikit-learn.
 
